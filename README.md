@@ -1,3 +1,3 @@
-# linux-forensics-command-guides
+# USCC-command-guides
 
-A collection of Linux command references and cheat sheets!
+A collection of command references and cheat sheets!
